@@ -2,4 +2,5 @@
  
  An Android Application that helps to record scores of Two teams in a Game.
  
+ ![](images/Phone.png)
  
